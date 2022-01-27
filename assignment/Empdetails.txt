@@ -1,0 +1,1 @@
+[{"name":"Rohit","email":"rohitsinghnegi68@gmail.com","age":"23","city":"Noida","salary":"40000"}]
